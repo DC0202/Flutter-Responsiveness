@@ -6,11 +6,7 @@ A new Flutter package project for making apps responsive. A responsive app lays 
 
 ## Screenshot and GIF :
 
-<p align="center">
-  <img src="https://github.com/DC0202/Flutter-Responsive/blob/master/SS-1.png" alt="Demo App" style="margin:auto" height="400">
-</p>
-
-![pub](https://github.com/DC0202/Flutter-Responsive/blob/master/SS-1.png)
+![pub](https://github.com/DC0202/Flutter-Responsive/blob/master/SS-1.png =400x800)
 
 ![pub](https://github.com/DC0202/Flutter-Responsive/blob/master/flutter_repsonsive_example.gif)
 
