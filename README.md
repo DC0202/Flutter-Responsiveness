@@ -5,8 +5,9 @@ A new Flutter package project for making apps responsive. A responsive app lays 
 ### Show some :heart: and star the repo to support the project
 
 ## Screenshot and GIF :
+![pub](https://github.com/DC0202/Flutter-Responsive/blob/master/flutter_repsonsive_example.gif)
 
-![pub](https://github.com/DC0202/Flutter-Responsive/blob/master/SS-1.png) ![pub](https://github.com/DC0202/Flutter-Responsive/blob/master/flutter_repsonsive_example.gif)
+![pub](https://github.com/DC0202/Flutter-Responsive/blob/master/SS-1.png)
 
 ## Usage
 
@@ -27,8 +28,8 @@ dependencies:
 
 Initialize Screensize for making it Responsive. The function call initializes the Screen in following Way:
 
-- initialHeight and initialWidth are the width and height in which your Screen Layout is default set in for developing Application
-- Let's say you, the developer is developing in Google Pixel 3a then it becomes default phone in which Application is developed by the developer
+- initialHeight and initialWidth are the width and height in which your Screen Layout is default set in for developing Application.
+- Let's say you, the developer is developing in Google Pixel 3a then it becomes default phone in which Application is developed by the developer. Make sure to enter the initialHeight and initialWidth for responsiveness
 - Now width and height parameter are the MediaQuery params which will help the in the responsiveness of the application.
 
 ```dart
@@ -37,8 +38,8 @@ void initState() {
   super.initState();
   WidgetsBinding.instance.addPostFrameCallback((_) {
     ScreenSize(
-      initialHeight: 759.2727272727273,
-      initialWidth: 392.72727272727275,
+      initialHeight: 759.2727272727273, // for Google Pixel 2XL height is 823
+      initialWidth: 392.72727272727275, // for Google Pixel 2XL width is 411
       width: MediaQuery.of(context).size.width,
       height: MediaQuery.of(context).size.height,
     );
