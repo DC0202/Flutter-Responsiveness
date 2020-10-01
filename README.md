@@ -12,7 +12,7 @@ A new Flutter package project for making apps responsive. A responsive app lays 
 
 ## Usage
 
-[Example](https://github.com/DC0202/Flutter-Responsive/blob/master/example/lib/main.dart)
+[Refer to the Example](https://github.com/DC0202/Flutter-Responsive/blob/master/example/lib/main.dart)
 
 ### To use this package :
 
