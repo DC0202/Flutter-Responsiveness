@@ -1,7 +1,7 @@
 name: flutter_responsiveness
-description: A flutter package for making apps responsive. A responsive app lays out its UI according to the size and shape of the screen or window. This is especially necessary when the same app can run on a variety of devices, from a watch, phone, tablet, to a laptop or desktop computer. When the user resizes the window on a laptop or desktop, or changes the orientation of the phone or tablet, the app should respond by rearranging the UI accordingly.
+description: A flutter package for making apps responsive. A responsive app lays out its UI according to the size and shape of the screen or window.
 version: 0.0.1
-homepage: https://github.com/DC0202/Flutter-Responsive
+homepage: https://github.com/DC0202/Flutter-Responsiveness
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
