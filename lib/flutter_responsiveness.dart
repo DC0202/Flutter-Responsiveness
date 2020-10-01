@@ -1,4 +1,4 @@
-library flutter_responsive;
+library flutter_responsiveness;
 
 double defaultWidth;
 double defaultHeight;
